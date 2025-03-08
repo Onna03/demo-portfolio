@@ -1,0 +1,30 @@
+#home{
+    background-color: #edddd4;
+}
+#home button{
+    background-color: #772e25;
+    border-color: #772e25;
+}
+#home span{
+    color: #772e25;
+    font-weight: 600;
+}
+#home img{
+    height: 400px;
+}
+
+#about{
+    background-color: #edddd4b7;
+}
+#projects{
+    background-color: #edddd4;    
+}
+#projects .card{
+    background-color: #772f2518;
+}
+#contact{
+    background-color: #edddd4;    
+}
+body{
+    background-color: #edddd4;   
+}
